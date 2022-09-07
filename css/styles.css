@@ -121,6 +121,7 @@ figure {
 .contact-item:focus a {
   fill: var(--primary-color-hover);
   color: var(--primary-color-hover);
+  cursor: pointer;
 }
 
 .main-banner {
@@ -281,6 +282,7 @@ figure {
 .team-icon:focus {
   fill: #ffffff;
   background-color: var(--primary-color-hover);
+  cursor: pointer;
 }
 
 .worker-name {
@@ -340,6 +342,7 @@ figure {
 .client-list-item:focus {
   fill: var(--primary-color-hover);
   border-color: var(--primary-color-hover);
+  cursor: pointer;
 }
 
 .client-list-item:not(:last-child) {
@@ -427,6 +430,7 @@ figure {
 .footer-social-icon:hover,
 .footer-social-icon:focus {
   background-color: var(--primary-color-hover);
+  cursor: pointer;
 }
 
 .projects-sort {
